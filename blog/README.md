@@ -4,7 +4,7 @@ layout: Blog
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: 沉香批3舅母 #TODO: 你博客的名称
+heroText: 沉香批3舅母理塘仙人 #TODO: 你博客的名称
 heroFullScreen: true
 tagline: can can need  #TODO: 你可以在这里放置你的口号与标语
 projects:
